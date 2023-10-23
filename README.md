@@ -33,5 +33,5 @@ Please be respectful and considerate in all interactions within the community. F
 ## License
 All articles in this repository are available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). By contributing, you agree to release your content under this license.
 
-**Happy Writing and Welcome to BitsBytesWrites**
+**Happy Writing and Welcome to BitsBytesWrites.**
 
