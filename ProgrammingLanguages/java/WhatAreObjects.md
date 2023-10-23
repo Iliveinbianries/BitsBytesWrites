@@ -47,4 +47,4 @@ class B{
 
 Consider the above code, here class A contains a function that simply prints hi. Now what is happing is I am creating three objects of the same A class which access the same function hi but through different objects like obj1, obj2 and obj3. One thing to be noted here is that class A is the mould here and obj1,2 and 3 are its toys that is objects.
 
-Feel free to provide feedback, I surely look up for improvements!
+Feel free to provide feedback, I surely look up for improvements!   
