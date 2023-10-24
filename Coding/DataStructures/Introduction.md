@@ -10,23 +10,23 @@ The way data (people) enters and exits the queue defines the properties of a par
 Data structures are mainly classified into two types:
 
 ### Linear Data Structures
-Linear data structures are those in which data is organized sequentially, one after another, much like the queue at the ice cream stall. Common linear data structures include:
+- Linear data structures are those in which data is organized sequentially, one after another, much like the queue at the ice cream stall. Common linear data structures include:
 
-Array: An array is a fixed-size, ordered collection of elements of the same data type, accessible by their indices. Arrays are efficient for direct access but less flexible in terms of resizing.
+- Array: An array is a fixed-size, ordered collection of elements of the same data type, accessible by their indices. Arrays are efficient for direct access but less flexible in terms of resizing.
 
-Linked List: A linked list is a dynamic data structure consisting of nodes, where each node contains data and a reference (or pointer) to the next node. Linked lists are flexible in size and useful for insertions and deletions.
+- Linked List: A linked list is a dynamic data structure consisting of nodes, where each node contains data and a reference (or pointer) to the next node. Linked lists are flexible in size and useful for insertions and deletions.
 
-Stack: A stack is a linear data structure following the Last-In-First-Out (LIFO) principle. It's commonly used for managing data in a way that the most recently added item is the first to be removed.
+- Stack: A stack is a linear data structure following the Last-In-First-Out (LIFO) principle. It's commonly used for managing data in a way that the most recently added item is the first to be removed.
 
-Queue: A queue adheres to the First-In-First-Out (FIFO) principle, where the first item added is the first to be removed. It's frequently used for tasks like task scheduling.
+- Queue: A queue adheres to the First-In-First-Out (FIFO) principle, where the first item added is the first to be removed. It's frequently used for tasks like task scheduling.
 
-ArrayList: Similar to arrays, ArrayLists are dynamic arrays, allowing for resizing as needed. They combine some advantages of both arrays and linked lists.
+- ArrayList: Similar to arrays, ArrayLists are dynamic arrays, allowing for resizing as needed. They combine some advantages of both arrays and linked lists.
 
 ### Non-Linear Data Structures
 Non-linear data structures are those in which data is organized in a non-sequential manner, similar to the arrangement of leaves on a tree. Common non-linear data structures include:
 
-Trees: Trees are hierarchical data structures with a root node and child nodes, forming a branching structure. Examples include binary trees, binary search trees, and balanced trees like AVL and Red-Black trees.
+- Trees: Trees are hierarchical data structures with a root node and child nodes, forming a branching structure. Examples include binary trees, binary search trees, and balanced trees like AVL and Red-Black trees.
 
-Graphs: Graphs consist of nodes (vertices) and edges connecting them. They model complex relationships and networks. Graphs can be directed or undirected, and edges can have weights.
+- Graphs: Graphs consist of nodes (vertices) and edges connecting them. They model complex relationships and networks. Graphs can be directed or undirected, and edges can have weights.
 
-Tries: Tries are tree-like data structures used for efficient key-based data storage and retrieval. They are commonly used in dictionaries and autocomplete systems.
+- Tries: Tries are tree-like data structures used for efficient key-based data storage and retrieval. They are commonly used in dictionaries and autocomplete systems.
