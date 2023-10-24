@@ -31,7 +31,7 @@ Understand how to display images using the <img> element.
 ## Tables and Semantic HTML:
 
 Learn about creating tables with the <table>, <tr>, <td>, and <th> elements.
-Explore semantic HTML elements like <header>, <nav>, <main>, <section>, and <footer to improve the structure and accessibility of your web pages.
+Explore semantic HTML elements like <header>, <nav>, <main>, <section>, and <footer> to improve the structure and accessibility of your web pages.
 
 ## HTML Attributes:
 
