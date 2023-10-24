@@ -24,7 +24,7 @@ JavaScript is an object-oriented language, which means it allows you to work wit
 
 With Javascipt, it becomes easy to respond to user interactions and events like clicks, mouse movements, and keyboard input. To create interactive web applications, we must include Event handling which is the fundamental part.
 
-### 6. DOM Manipulation
+### 6. [DOM Manipulation](../ProgrammingLanguages/JavaScript/WhatIsDOM.md)
 
 A web page's structure is represented by the Document Object Model (DOM). By accessing and modifying the DOM, JavaScript enables you to dynamically change the content and appearance of web elements.
 
