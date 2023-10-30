@@ -24,7 +24,7 @@ Computer Vision involves the development of algorithms and techniques to help co
 
 ### 1. Image Processing
 
-Image processing techniques are used to enhance images, perform noise reduction, and prepare images for analysis.
+Image processing techniques are used to enhance images, perform noise reduction, and prepare images for analysis.So Image Processing is the subset of Computer Vision. 
 
 ### 2. Feature Extraction
 
@@ -37,6 +37,51 @@ CNNs are a class of deep learning models specifically designed for processing gr
 ### 4. Object Detection
 
 Object detection algorithms identify and locate objects in images or videos. They are widely used in applications like video surveillance and autonomous vehicles.
+### Image Processing System
+ It is the combination of the different elements involved in the digital image processing. Digital image processing is the processing of an image by means of a digital computer. Digital image processing uses different computer algorithms to perform image processing on the digital images.
+
+### Steps involved in Digital Image Processing
+1.Image acquisition: This involves capturing an image using a digital camera or scanner, or importing an existing image into a computer.
+
+2.Image enhancement: This involves improving the visual quality of an image, such as increasing contrast, reducing noise, and removing artifacts.
+
+3.Image restoration: This involves removing degradation from an image, such as blurring, noise, and distortion.
+
+4.Image segmentation: This involves dividing an image into regions or segments, each of which corresponds to a specific object or feature in the image.
+
+5.Image representation and description: This involves representing an image in a way that can be analyzed and manipulated by a computer, and describing the features of an image in a compact and meaningful way.
+
+6.Image analysis: This involves using algorithms and mathematical models to extract information from an image, such as recognizing objects, detecting patterns, and quantifying features.
+
+7.Image synthesis and compression: This involves generating new images or compressing existing images to reduce storage and transmission requirements.
+
+8.Digital image processing is widely used in a variety of applications, including medical imaging, remote sensing, computer vision, and multimedia
+
+### Components of Image Processing System
+1.Image Sensors:
+Image sensors senses the intensity, amplitude, co-ordinates and other features of the images and passes the result to the image processing hardware. It includes the problem domain.
+
+2.Image Processing Hardware:
+Image processing hardware is the dedicated hardware that is used to process the instructions obtained from the image sensors. It passes the result to general purpose computer.
+
+3.Computer:
+Computer used in the image processing system is the general purpose computer that is used by us in our daily life.
+
+4.Image Processing Software:
+Image processing software is the software that includes all the mechanisms and algorithms that are used in image processing system.
+
+5.Mass Storage:
+Mass storage stores the pixels of the images during the processing.
+
+6.Hard Copy Device:
+Once the image is processed then it is stored in the hard copy device. It can be a pen drive or any external ROM device.
+
+7.Image Display:
+It includes the monitor or display screen that displays the processed images.
+
+8.Network:
+Network is the connection of all the above elements of the image processing system.
+
 
 ## The Computer Vision Process
 
